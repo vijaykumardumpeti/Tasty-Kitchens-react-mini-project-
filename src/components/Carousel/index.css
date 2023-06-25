@@ -1,0 +1,13 @@
+.images {
+  margin-top: 2%;
+  height: 10%;
+  width: 80vw;
+  margin-left: 8%;
+}
+
+.carousel-loader {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2%;
+}
